@@ -7082,9 +7082,7 @@
       "_macro_body_expr"
     ]
   ],
-  "precedences": [
-
-  ],
+  "precedences": [],
   "externals": [
     {
       "type": "SYMBOL",
@@ -7129,6 +7127,5 @@
     "_deprecated_fun_arity",
     "_desc",
     "_string_like"
-  ],
-  "@generated": true
+  ]
 }
